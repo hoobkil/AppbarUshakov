@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/settings"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/action_open_notes"
+        android:orderInCategory="100"
+        android:title="@string/notepad"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/action_open_calendar"
+        android:orderInCategory="100"
+        android:title="@string/calendar"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/action_open_spinner"
+        android:orderInCategory="100"
+        android:title="@string/spinner"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/action_open_checkbox"
+        android:orderInCategory="100"
+        android:title="@string/checkbox"
+        app:showAsAction="never"
+        />
+
+</menu>

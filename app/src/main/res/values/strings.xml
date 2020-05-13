@@ -1,0 +1,47 @@
+<resources>
+
+    <string name="input_money">Ввод денег</string>
+    <string name="paymentInfo">Информация об оплате</string>
+    <string name="ok">OK</string>
+    <string name="bankCard">С банковской карты</string>
+    <string name="mobilePhone">С мобильного телефона</string>
+    <string name="cashaddress">Наличными по адресу</string>
+    <string name="app_name">AppbarUshakov</string>
+    <string name="settings">Settings</string>
+    <string name="notepad">Записная книжка</string>
+    <string name="enterText">Введите текст</string>
+    <string name="save">Сохранить</string>
+    <string name="calendar">Календарь</string>
+    <string name="spinner">Спиннер</string>
+    <string name="checkbox">Чекбокс</string>
+    <string name="timeStart">Дата-время старта задачи: </string>
+    <string name="timeEnd">Дата-время окончания задачи: </string>
+    <string name="dateError">Ошибка! Дата-время начала больше даты-времени конца</string>
+    <string name="start">старт: </string>
+    <string name="end">окончание: </string>
+    <string name="showAddress">Показать адрес</string>
+    <string name="sum">\"Сумма: \"</string>
+    <string name="info">\"Инфо: \"</string>
+    <string name="paymentType">\"Тип оплаты: \"</string>
+    <string name="successSave">Данные сохранены</string>
+    <string-array name="country">
+        <item>Россия</item>
+        <item>Украина</item>
+        <item>Белоруссия</item>
+    </string-array>
+    <string-array name="r_cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+    </string-array>
+    <string-array name="u_cities">
+        <item>Киев</item>
+        <item>Одесса</item>
+        <item>Харьков</item>
+    </string-array>
+    <string-array name="b_cities">
+        <item>Минск</item>
+        <item>Гомель</item>
+        <item>Торжок</item>
+    </string-array>
+</resources>
